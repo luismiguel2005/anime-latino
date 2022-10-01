@@ -1,0 +1,40 @@
+body {
+  background-color:black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  list-style-type: circle;
+  font-family: 'Courgette', cursive;
+}
+
+p {
+  
+  font-size: 20px;
+  color: white;
+font-family: 'Courgette', cursive;
+
+}
+ul{
+list-style-type: none;
+    background: #A9A9A9;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    font-family: 'Alkalami', serif;
+}
+li{ 
+float: left ;
+
+    
+}
+li a{
+    display: block;
+    text-align-last:center ;
+    color: black;
+    padding: 16px 16px;
+    text-decoration: none;
+    border-right: 1px solid black;
+   
+}
